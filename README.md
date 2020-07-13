@@ -2,7 +2,7 @@
 
 
 
-Hi, I'm Yaobin Li, a Computer Vision Developer 🚀 from Hangzhou China. I got my M.Eng degree from 🏫[UESTC](https://www.uestc.edu.cn/) in 2018.6. Currently, I am working on 😄face recognition algorithm research and computer vision related algorithms in a AR/AI company 👨🏽‍💼[@Rokid](https://www.rokid.com/). Beside's programming, I enjoy movie and traveling.
+Hi, I'm Yaobin Li, a Computer Vision Developer 🚀 from Hangzhou China. I got my M.Eng degree from 🏫[@UESTC](https://www.uestc.edu.cn/) in 2018.6. Currently, I am working on 😄face recognition algorithm research and computer vision related algorithms in a AR/AI company 👨🏽‍💼[@Rokid](https://www.rokid.com/). Beside's programming, I enjoy movie and traveling.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
